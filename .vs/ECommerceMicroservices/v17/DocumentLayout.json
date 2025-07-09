@@ -1,0 +1,532 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project\\ECommerceMicroservices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonContracts\\OrderEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\CommonContracts\\OrderEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\PaymentService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\PaymentService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\InventoryService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\InventoryService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\NotificationService\\NotificationService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\NotificationService\\NotificationService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\OrderService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\OrderService\\OrderService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\ApiGateway\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\OrderService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\appsettings.json",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\appsettings.json",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T09:10:23.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\appsettings.json",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\appsettings.json",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\appsettings.json",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T08:56:20.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentService.csproj",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\PaymentService.csproj",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\PaymentService.csproj",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\PaymentService.csproj",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\PaymentService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T18:36:28.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\docker-compose.yml",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\docker-compose.yml",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\docker-compose.yml",
+              "RelativeToolTip": "MicroservicesSolution\\docker-compose.yml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwDgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-06T16:33:55.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Program.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Program.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:25:41.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Program.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\Program.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Program.cs",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:22:13.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMqService.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs",
+              "RelativeToolTip": "MicroservicesSolution\\CommonInfrastructure\\RabbitMqService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAnwHUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:07:14.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentProcessedConsumer.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Workers\\PaymentProcessedConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:24:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\Workers\\OrderCreatedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:21:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderEvent.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonContracts\\OrderEvent.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\CommonContracts\\OrderEvent.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonContracts\\OrderEvent.cs",
+              "RelativeToolTip": "MicroservicesSolution\\CommonContracts\\OrderEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:46:05.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:25:26.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Repositories\\IInventoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:23:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Repositories\\InventoryRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:24:00.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryService.csproj",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\InventoryService.csproj",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\InventoryService.csproj",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\InventoryService.csproj",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\InventoryService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T18:54:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotificationService.csproj",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\NotificationService\\NotificationService.csproj",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\NotificationService\\NotificationService.csproj",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\NotificationService\\NotificationService.csproj",
+              "RelativeToolTip": "MicroservicesSolution\\NotificationService\\NotificationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T18:54:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\OrderService\\OrderService.csproj",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "MicroservicesSolution\\OrderService\\OrderService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T19:17:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\OrderService\\Dockerfile",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Dockerfile",
+              "RelativeToolTip": "MicroservicesSolution\\OrderService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T16:44:59.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "MicroservicesSolution\\ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T18:50:45.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\Dockerfile",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Dockerfile",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T16:45:24.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "MicroservicesSolution\\ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T16:46:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Dockerfile",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Dockerfile",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Dockerfile",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Dockerfile",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-06T16:45:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InventoryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs",
+              "RelativeToolTip": "MicroservicesSolution\\Tests\\InventoryService.Tests\\InventoryRepositoryTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:32:30.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PaymentProcessorTests.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs",
+              "RelativeToolTip": "MicroservicesSolution\\Tests\\PaymentService.Tests\\PaymentProcessorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:32:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderControllerTests.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs",
+              "RelativeToolTip": "MicroservicesSolution\\Tests\\OrderService.Tests\\OrderControllerTests.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:31:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductInventory.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs",
+              "RelativeToolTip": "MicroservicesSolution\\InventoryService\\Models\\ProductInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:23:12.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\Services\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:20:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs",
+              "RelativeToolTip": "MicroservicesSolution\\PaymentService\\Services\\IPaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T16:19:14.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersControllers.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs",
+              "RelativeToolTip": "MicroservicesSolution\\OrderService\\Controllers\\OrdersControllers.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:09:46.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MicroservicesSolution\\OrderService\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:09:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "MicroservicesSolution\\OrderService\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:08:48.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs",
+              "ToolTip": "C:\\project\\ECommerceMicroservices\\MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs",
+              "RelativeToolTip": "MicroservicesSolution\\CommonInfrastructure\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T13:53:44.08Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
