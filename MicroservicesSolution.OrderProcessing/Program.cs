@@ -26,7 +26,6 @@ consumer.ReceivedAsync += async (model, ea) =>
     var jsonString = System.Text.Encoding.UTF8.GetString(body);
     Console.WriteLine($"Received message: {jsonString}");
     
-    // Simulate processing
     await Task.Delay(1000);
     
     Console.WriteLine("Message processed successfully.");
